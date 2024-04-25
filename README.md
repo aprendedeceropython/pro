@@ -40,7 +40,7 @@ La práctica para el nivel pro consiste en lo siguiente:
 - Es muy importante que os pongais en contacto y discutan las bases del proyecto. Podeis solicitar un canal en Telegram para la dicusion del mismo.
 - La practica esta sujeta a sugerencias
 
-### HAPPY CODING
+### ❤ HAPPY CODING ❤
 
 (1) Pull Request
 (2) Base(s) de dato(s)
