@@ -1,6 +1,5 @@
-# pro
 
-## Práctica para Pros de Python  
+# Práctica para Pros de Python  
 
 ### Como participar en la práctica
 
