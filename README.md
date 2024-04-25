@@ -1,4 +1,3 @@
-
 # Práctica para Pros de Python  
 
 ### Como participar en la práctica
@@ -36,9 +35,13 @@ La práctica para el nivel pro consiste en lo siguiente:
 ## Notas finales
 
 - En caso de trabajar el proyecto de forma no colaborativa, abra una nueva branch con el nombre PRO\_<NOMBRE>  
-  El nombre puede ser un alias, si cuenta de GitHub, etc.
+  El nombre puede ser un alias, su cuenta de GitHub, etc.
+- No Cambiar el archivo README.md, podeis añadir uno o mas archivos con la tormenta de ideas
+- Es muy importante que os pongais en contacto y discutan las bases del proyecto. Podeis solicitar un canal en Telegram para la dicusion del mismo.
+- La practica esta sujeta a sugerencias
+
+### HAPPY CODING
 
 (1) Pull Request
 (2) Base(s) de dato(s)
 (3) Multi factor de Autenticación
-
