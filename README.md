@@ -42,6 +42,6 @@ La práctica para el nivel pro consiste en lo siguiente:
 
 ### ❤ HAPPY CODING ❤
 
-(1) Pull Request
-(2) Base(s) de dato(s)
+(1) Pull Request  
+(2) Base(s) de dato(s)  
 (3) Multi factor de Autenticación
